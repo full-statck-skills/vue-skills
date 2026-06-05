@@ -1,0 +1,21 @@
+{
+  "name": "vue-skills",
+  "version": "1.0.0",
+  "description": "Vue.js ecosystem skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/vue-skills",
+  "repository": "https://github.com/full-statck-skills/vue-skills",
+  "source": "./",
+  "skills": [
+    "./skills/pinia",
+    "./skills/vue-router-v3",
+    "./skills/vue-router-v4",
+    "./skills/vue-router",
+    "./skills/vue2",
+    "./skills/vue3",
+    "./skills/vuex-vue2"
+  ]
+}
